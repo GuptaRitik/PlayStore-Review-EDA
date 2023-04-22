@@ -1,4 +1,6 @@
-#Play Store Review Analysis (EDA) -
+# Play Store Review Analysis (EDA) -
+
+Link to Tableau Dashboard:- https://public.tableau.com/app/profile/ritik.gupta5510/viz/Book1_16818411246240/Dashboard1
 
 Abstract:-
 Android app market is growing exponentially 
